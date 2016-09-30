@@ -11,7 +11,7 @@
         "DNSAddresses": {
             "type": "string",
             "displayName": "DNS IP Addresses",
-            "description": "Of the form: {10.10.1.1;10.10.1.2}"
+            "description": "Of the form: {10.0.1.1;10.10.1.2}"
         }
     },
     "runCommand": {
